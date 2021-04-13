@@ -8,7 +8,12 @@
 }
 .imagem{
     display: table-cell;
-    float: left;
+    float: right;
+    width: -500px;
+    margin-top: -250px;
+    margin-right: -400px;
+    
+  
 }
 
 .texto{
@@ -17,4 +22,5 @@
     width: 300px;
     margin-top: -20px;
     margin-left: 20px;
+ 
 }
