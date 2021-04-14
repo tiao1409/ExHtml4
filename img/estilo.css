@@ -24,3 +24,28 @@
     margin-left: 20px;
  
 }
+.subtitulo{
+    display: table-cell;
+    float: right;
+    color: red;
+    margin-top:400px;
+    margin-right: 400;
+    background-color: gold;  
+  
+   
+}
+.cabecalho{
+  
+    margin-top:-40px;
+    
+}
+.sub{
+    display: table-cell;
+    float: right;
+    color: red;
+    margin-top:-20px;
+    margin-right: 20;
+    
+}
+
+
